@@ -1,7 +1,11 @@
 # DangdangBook
 **By Scrapy**
 
-分析Ajax请求
+运行`run.py`即可启动
+
+### 大致流程
+
+**分析Ajax请求**
 
 站点：`http://m.dangdang.com/`
 
